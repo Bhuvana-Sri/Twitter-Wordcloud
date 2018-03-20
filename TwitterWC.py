@@ -7,10 +7,10 @@ from tweepy import Cursor
 import json
 import pandas as p   #needed to create word cloud from column with string
 
-access_token = "772063197993967617-uGSiCPaGVztq8dGhfttgEkheBHHuuqP"
-access_secret = "JKEt7CnqXDZJk51FDp2mANWqGhS4Iq72svgQdM1Oaw0ND"
-consumer_key = "7gjGkSZyVsynHf1SM4vtLf1a0"
-consumer_secret = "i1isVWGayikjHcBAKYTrMYOH4msKB29KWuaaU3W0EP0cURZ2fM"
+access_token =""#your details
+access_secret = ""#your details
+consumer_key = ""#your details
+consumer_secret = ""#your details
 
 #Max=200
 
